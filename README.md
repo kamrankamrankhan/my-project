@@ -1,1 +1,3 @@
-# ChristianAliyuda
+## npm install
+
+## node server.js
